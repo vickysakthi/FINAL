@@ -1,0 +1,153 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace; */
+/* } */
+
+/* 5.shoping colthing
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+div {
+  margin-top: 5em;
+  margin-right: 10em;
+  margin-left: 10em;
+}
+
+h1 {
+  font-size: 3em;
+  font-style: italic;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3,
+h2,
+ul {
+  text-align: center;
+  color: white;
+}
+button {
+  background-color: burlywood;
+  font-weight: bold;
+  /* background-color: crimson; */
+/* }
+body {
+  background-image: url("https://c0.wallpaperflare.com/preview/813/237/71/blur-blurred-background-boutique-clothes.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  font: normal 75% Arial, Helvetica, sans-serif;
+} */ 
+
+/* 6. fetching data */
+
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: black;
+  font-size: 5em;
+}
+img {
+  display: inline-block;
+}
+form {
+  float: right;
+  padding-right: 20em;
+  padding-top: 1em;
+}
+marquee {
+  color: red;
+  font-weight: bold;
+}
+ */
+
+ /* 7.atm */
+
+ /* .App {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 10em;
+  padding-right: 30em;
+}
+body {
+  background-color: cyan;
+} */
+
+/* 8.  tic tok*/
+ 
+ .App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  background-color: #0c80f3;
+  border: 6px solid #0ff166;
+  border-radius: 10px;
+}
+.game-board {
+  width: 600px;
+  height: 600px;
+  margin: 0 auto;
+  background-color: lightblue;
+  color: rgb(204, 28, 28);
+  border: 6px solid #0b0d0f;
+  border-radius: 10px;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr;
+}
+
+.grid-row {
+  border: 6px solid #739dc7;
+  border-radius: 6px;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 4em;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: rgb(175, 70, 70);
+}
+.block {
+  background-color: rgb(219, 28, 28);
+  border: 6px solid green;
+  border-radius: 6px;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 20em;
+}
+button.color[data="X"] {
+  color: red;
+}
+button.color[data="O"] {
+  color: white;
+} 
+
+ /* 9.single page movie */
+
+/*  
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: burlywood;
+}
+h1 {
+  border: dotted white;
+} */
